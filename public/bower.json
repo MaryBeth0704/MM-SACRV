@@ -1,18 +1,15 @@
 {
   "name": "SACRV",
   "description": "Paquetes del front end para el proyecto SACRV",
-  "main": "SACRV",
+  "main": "",
   "authors": [
     "Maria Betsabe Mora Medina"
-  ],
-  "keywords": [
-    "automatizacion",
-    "laravel"
   ],
   "license": "MIT",
   "homepage": "Principal.app",
   "dependencies": {
+    "jquery": "^3.1.0",
     "bootstrap": "^3.3.7",
-    "bootstrap-material-design": "^4.0.2"
+    "bootstrap-material-design" : "^0.5.10"
   }
 }
